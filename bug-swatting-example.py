@@ -20,4 +20,4 @@ seconds_since_NYD_1970 = time.time() # I will explain this later
 gmt_time = time.gmtime()
 pretty_time = time.asctime(gmt_time)
 
-print(fact) 
+print(number) 
